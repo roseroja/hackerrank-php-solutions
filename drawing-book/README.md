@@ -46,8 +46,12 @@ Encuentra el número entero mostrando el total de páginas que Brie tuvo que pas
 
 Dados los datos presentados podemos saber que Brie necesita encontrar la pagina 2 (**p**), de un libro de 6 paginas (**n**), **por lo tanto**:
 
-- Si empiesa desde la pagina 1 tendría que pasar 1 pagina
-	![Paso 1](https://s3.amazonaws.com/hr-challenge-images/22564/1467398713-1decf68d06-UntitledDiagram6.png)
-- Si comienza de la pagina 6, tendría que pasar 2 paginas
-	![Paso 2](https://s3.amazonaws.com/hr-challenge-images/22564/1467397150-52d0a8213b-UntitledDiagram3.png)
-==Siempre buscamos pasar el menor número de paginas por lo que nuestro resultado correcto seria la opción 1==
+Si empiesa desde la pagina 1 tendría que pasar 1 pagina
+
+![Paso 1](https://s3.amazonaws.com/hr-challenge-images/22564/1467398713-1decf68d06-UntitledDiagram6.png)
+
+Si comienza de la pagina 6, tendría que pasar 2 paginas
+
+![Paso 2](https://s3.amazonaws.com/hr-challenge-images/22564/1467397150-52d0a8213b-UntitledDiagram3.png)
+
+### Siempre buscamos pasar el menor número de paginas por lo que nuestro resultado correcto seria la opción 1
